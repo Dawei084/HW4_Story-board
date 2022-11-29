@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; configuration.title = "Start"; ObjectID = "1Pq-Ga-gbD"; */
+"1Pq-Ga-gbD.configuration.title" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1Pq-Ga-gbD"; */
+"1Pq-Ga-gbD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "歡迎來到城市花園"; ObjectID = "4wB-FT-7dO"; */
+"4wB-FT-7dO.text" = "歡迎來到城市花園";
+
+/* Class = "UILabel"; text = "Welcome to the Garden City"; ObjectID = "Abe-kQ-aYv"; */
+"Abe-kQ-aYv.text" = "Welcome to the Garden City";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Dgc-0l-cHk"; */
+"Dgc-0l-cHk.title" = "Item";
+
+/* Class = "UILabel"; text = "城市花園\nGardenCity"; ObjectID = "VNb-Yp-OB9"; */
+"VNb-Yp-OB9.text" = "城市花園\nGardenCity";
+
+/* Class = "UILabel"; text = "歡迎來到城市花園"; ObjectID = "bxY-3G-nA5"; */
+"bxY-3G-nA5.text" = "歡迎來到城市花園";
+
+/* Class = "UIButton"; configuration.title = "Start"; ObjectID = "gas-ay-IDh"; */
+"gas-ay-IDh.configuration.title" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gas-ay-IDh"; */
+"gas-ay-IDh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "城市花園\nGardenCity"; ObjectID = "zBf-19-MDG"; */
+"zBf-19-MDG.text" = "城市花園\nGardenCity";
+
+/* Class = "UILabel"; text = "Welcome to the Garden City"; ObjectID = "zOY-Zp-5IB"; */
+"zOY-Zp-5IB.text" = "Welcome to the Garden City";

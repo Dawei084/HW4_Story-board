@@ -24,6 +24,9 @@
 		D336F5AA292FA629004A2F23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D336F5AD292FA629004A2F23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D336F5AF292FA629004A2F23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D37B28AD2933A1E30050114E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		D3ADBB772933242800A969E8 /* BrittanySignature.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = BrittanySignature.ttf; sourceTree = "<group>"; };
+		D3ADBB782933270B00A969E8 /* 仿宋體W6.TTC */ = {isa = PBXFileReference; lastKnownFileType = file; path = "仿宋體W6.TTC"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +63,11 @@
 				D336F5A3292FA627004A2F23 /* SceneDelegate.swift */,
 				D336F5A5292FA627004A2F23 /* ViewController.swift */,
 				D336F5A7292FA627004A2F23 /* Main.storyboard */,
-				D336F5AA292FA629004A2F23 /* Assets.xcassets */,
 				D336F5AC292FA629004A2F23 /* LaunchScreen.storyboard */,
+				D336F5AA292FA629004A2F23 /* Assets.xcassets */,
 				D336F5AF292FA629004A2F23 /* Info.plist */,
+				D3ADBB772933242800A969E8 /* BrittanySignature.ttf */,
+				D3ADBB782933270B00A969E8 /* 仿宋體W6.TTC */,
 			);
 			path = "HW4_Story board";
 			sourceTree = "<group>";
@@ -151,6 +156,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				D336F5A8292FA627004A2F23 /* Base */,
+				D37B28AD2933A1E30050114E /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
